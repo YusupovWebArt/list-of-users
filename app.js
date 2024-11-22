@@ -1,14 +1,3 @@
-// const car = {
-//   model: 'Tesla',
-//   year: 2023,
-// }
-
-// const json = JSON.stringify(car)
-// const parsed = JSON.parse(json)
-
-// console.log(json)
-// console.log(parsed)
-
 const list = document.querySelector('#list')
 const filter = document.querySelector('#filter')
 let USERS = []
